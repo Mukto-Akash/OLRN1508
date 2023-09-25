@@ -1,2 +1,3 @@
-# OLRN1508
-Projects in Python django
+# OLRN1508-A1
+
+Getting started with Django
