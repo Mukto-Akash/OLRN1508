@@ -3,9 +3,9 @@
 Getting started with Django
 
 ### Commands used:
-$ python manage.py runserver
-$ python manage.py migrate
-$ python manage.py createsuperuser
+- $ python manage.py runserver
+- $ python manage.py migrate
+- $ python manage.py createsuperuser
 
 ### Processes:
 - defining a view
